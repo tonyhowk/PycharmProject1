@@ -22,5 +22,5 @@ plt.style.use('grayscale')
 fig, ax = plt.subplots()
 ax.barh(group_names, group_data)
 
-
+print('Test git')
 plt.show ()
